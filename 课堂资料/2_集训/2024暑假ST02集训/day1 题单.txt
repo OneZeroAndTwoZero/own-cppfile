@@ -1,0 +1,29 @@
+https://www.luogu.com.cn/problem/P6648 | P6648 [CCC2019] Triangle: The Data Structure - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P7244 | P7244 章节划分 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P7974 | P7974 [KSN2021] Delivering Balls - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P3246 | P3246 [HNOI2016] 序列 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/list?keyword=CSP-S%202022&type=AT%7CB%7CCF%7CP%7CSP%7CUVA&page=1 | 题目列表 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P8820 | P8820 [CSP-S 2022] 数据传输 - 洛谷 | 计算机科学教育新生态
+https://codeforces.com/contest/1175/problem/E | Problem - E - Codeforces
+https://vjudge.net/problem/UVA-11987 | Almost Union-Find - UVA 11987 - Virtual Judge
+https://www.luogu.com.cn/problem/P1525 | P1525 [NOIP2010 提高组] 关押罪犯 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P1783 | P1783 海滩防御 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P3295 | P3295 [SCOI2016] 萌萌哒 - 洛谷 | 计算机科学教育新生态
+https://codeforces.com/contest/1971/problem/G | Problem - G - Codeforces
+
+https://www.luogu.com.cn/problem/P1612 | P1612 [yLOI2018] 树上的链 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P2341 | P2341 [USACO03FALL / HAOI2006] 受欢迎的牛 G - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P2325 | P2325 [SCOI2005] 王室联邦 - 洛谷 | 计算机科学教育新生态
+https://vjudge.net/problem/POJ-3494#author=0 | Largest Submatrix of All 1’s - POJ 3494 - Virtual Judge
+https://www.luogu.com.cn/problem/P1198 | P1198 [JSOI2008] 最大数 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P1823 | P1823 [COI2007] Patrik 音乐会的等待 - 洛谷 | 计算机科学教育新生态
+https://vjudge.net/problem/QOJ-8008 | Fortune Wheel - QOJ 8008 - Virtual Judge
+https://codeforces.com/contest/681/problem/C | Problem - C - Codeforces
+https://www.luogu.com.cn/problem/P1090 | P1090 [NOIP2004 提高组] 合并果子 / [USACO06NOV] Fence Repair G - 洛谷 | 计算机科学教育新生态
+https://codeforces.com/contest/1140/problem/C | Problem - C - Codeforces
+https://codeforces.com/contest/1935/problem/C | Problem - C - Codeforces
+https://www.luogu.com.cn/problem/P1484 | P1484 种树 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P1440 | P1440 求m区间内的最小值 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P1776 | P1776 宝物筛选 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P2698 | P2698 [USACO12MAR] Flowerpot S - 洛谷 | 计算机科学教育新生态
+

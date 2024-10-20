@@ -1,0 +1,12 @@
+https://www.luogu.com.cn/problem/P3375 | P3375 【模板】KMP - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P3435 | P3435 [POI2006] OKR-Periods of Words - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P3546 | P3546 [POI2012] PRE-Prefixuffix - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P3805 | P3805 【模板】manacher - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P1659 | P1659 [国家集训队] 拉拉队排练 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P4555 | P4555 [国家集训队] 最长双回文串 - 洛谷 | 计算机科学教育新生态
+
+https://www.luogu.com.cn/problem/P3763 | P3763 [TJOI2017] DNA - 洛谷 | 计算机科学教育新生态
+https://codeforces.com/contest/1979/problem/D | Problem - D - Codeforces
+https://codeforces.com/contest/1968/problem/G1 | Problem - G1 - Codeforces
+https://codeforces.com/contest/1968/problem/G2 | Problem - G2 - Codeforces
+

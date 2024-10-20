@@ -1,0 +1,24 @@
+https://codeforces.com/problemset/problem/1986/E | Problem - 1986E - Codeforces
+https://codeforces.com/gym/104821/problem/L | Problem - L - Codeforces
+https://www.luogu.com.cn/problem/P1966 | P1966 [NOIP2013 提高组] 火柴排队 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P1937 | P1937 [USACO10MAR] Barn Allocation G - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P3970 | P3970 [TJOI2014] 上升子序列 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P4801 | P4801 [CCO2015] 饥饿的狐狸 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P2742 | P2742 [USACO5.1] 圈奶牛Fencing the Cows /【模板】二维凸包 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P8777 | P8777 [蓝桥杯 2022 省 A] 扫描游戏 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P2205 | P2205 [USACO13JAN] Painting the Fence S - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P6602 | P6602 「EZEC-2」数轴 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P4766 | P4766 [CERC2014] Outer space invaders - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P3605 | P3605 [USACO17JAN] Promotion Counting P - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P3396 | P3396 哈希冲突 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P1989 | P1989 无向图三元环计数 - 洛谷 | 计算机科学教育新生态
+https://vjudge.net/problem/AtCoder-abc259_h | Yet Another Path Counting - AtCoder abc259_h - Virtual Judge
+https://www.luogu.com.cn/problem/P2448 | P2448 无尽的生命 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P10096 | P10096 [ROIR 2023 Day 1] 扫地机器人 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P1502 | P1502 窗口的星星 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P2127 | P2127 序列排序 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P4188 | P4188 [USACO18JAN] Lifeguards S - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P7883 | P7883 平面最近点对（加强加强版） - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P5502 | P5502 [JSOI2015] 最大公约数 - 洛谷 | 计算机科学教育新生态
+https://codeforces.com/problemset/problem/526/F | Problem - 526F - Codeforces
+https://www.luogu.com.cn/problem/P10162 | P10162 [DTCPC 2024] 序列 - 洛谷 | 计算机科学教育新生态

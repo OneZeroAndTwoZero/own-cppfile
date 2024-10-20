@@ -1,0 +1,11 @@
+https://www.luogu.com.cn/problem/P1168 | P1168 中位数 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P3755 | P3755 [CQOI2017] 老C的任务 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P5490 | P5490 【模板】扫描线 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P3372 | P3372 【模板】线段树 1 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P3373 | P3373 【模板】线段树 2 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P1972 | P1972 [SDOI2009] HH的项链 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P1471 | P1471 方差 - 洛谷 | 计算机科学教育新生态
+https://www.luogu.com.cn/problem/P1712 | P1712 [NOI2016] 区间 - 洛谷 | 计算机科学教育新生态
+https://vjudge.net/problem/CodeForces-718C#author=0 | Sasha and Array - CodeForces 718C - Virtual Judge
+https://vjudge.net/problem/CodeForces-1668D#author=KING_LRL | Optimal Partition - CodeForces 1668D - Virtual Judge
+
