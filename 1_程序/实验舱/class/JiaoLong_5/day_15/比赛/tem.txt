@@ -1,0 +1,25 @@
+#include <bits/stdc++.h>
+#define MOD 999999937
+using namespace std;
+char code[7001];
+int n, dp[2][7001], sum[2][7001];
+int main()
+{
+  scanf("%d\n", &n);
+  for (int i = 1; i <= n; i++)
+  {
+    scanf("%c\n", code + i);
+    sum[0][i] = 1;
+  }
+  for (int i = 1; i <= n; i++)
+    for (int j = 1; j <= n; j++)
+    {
+      if (code[i - 1] == 'f')
+        dp[i & 1][j] = dp[(i - 1) & 1][j - 1];
+      else
+        dp[i & 1][j] = (sum[(i - 1) & 1][n] - sum[(i - 1) & 1][j - 1] + MOD) % MOD;
+      sum[i & 1][j] = (sum[i & 1][j - 1] + dp[i & 1][j]) % MOD;
+    }
+  printf("%d", sum[n & 1][n] % MOD);
+  return 0;
+}
